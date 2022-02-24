@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80286930569",
+    "project_id": "flutter-festival",
+    "storage_bucket": "flutter-festival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80286930569:android:6d1d609f7b46cf451ed858",
+        "android_client_info": {
+          "package_name": "com.example.flutter_festival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80286930569-ai2r7gpaekqnlnu8jevah58616s78cdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxfRLhLHQ8EJdUGR3Rg-tz_E5VzMyUUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80286930569-ai2r7gpaekqnlnu8jevah58616s78cdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
